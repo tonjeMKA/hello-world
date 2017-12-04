@@ -1,2 +1,4 @@
 # hello-world
-Learning github
+
+Hi there!
+Christmas is coming - embrace!
